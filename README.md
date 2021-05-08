@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @siddharthpro101
 - 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning Deep learning basics and Data Analytics
+- I love to read Biographies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
